@@ -11,10 +11,11 @@ Pac-Man HDNes Pack is a high resolution graphics pack for the original 1993 Namc
 4. Follow the first-time setup instructions. Take note of your chosen <i>Data Storage Location</i> directory.
 5. Inside the <i>Data Storage Location</i> directory, create a folder named "HdPacks" and navigate into it.
 6. Inside "HdPacks", create a folder matching the name of your Pac-Man ROM minus the file extension and navigate into it.
-7. Copy the contents of this repository (downloading is recommended) into the folder.
-8. In Mesen, navigate to "Options -> Video".
-9. In the "General" tab of the "Video Options" dialog, make sure "Use HDNes HD packs" is checked and click "OK".
-10. Load your Pac-Man ROM inside Mesen and you're good to go!
+7. Download this repo using "Clone or Download -> Download ZIP".
+8. Copy the contents of the downloaded ZIP file into the folder.
+9. In Mesen, navigate to "Options -> Video".
+10. In the "General" tab of the "Video Options" dialog, make sure "Use HDNes HD packs" is checked and click "OK".
+11. Load your Pac-Man ROM inside Mesen and you're good to go!
 
 ## Known Issues
 - On the demo screen where the ghost names and point values are shown, Clyde (the right-most ghost) disappears before Pac-Man can eat him. Rerecording the pack via Mesen did not fix this.
