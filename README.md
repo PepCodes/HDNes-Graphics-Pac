@@ -4,7 +4,7 @@ Pac-Man HDNes Pack is a high resolution graphics pack for the original 1993 Namc
 <img src="https://github.com/PepCodes/HDNes-Graphics-Pac/blob/master/Screenshot_00.png" width="33%"> <img src="https://github.com/PepCodes/HDNes-Graphics-Pac/blob/master/Screenshot_01.png" width="33%"> <img src="https://github.com/PepCodes/HDNes-Graphics-Pac/blob/master/Screenshot_02.png" width="33%">
 
 ## How to Use (Windows)
-<i>NOTE: These instructions assume that you do not have Mesen installed and configured to use HDNes packs. If you do have Mesen set up, only follow steps 6, 7 and 10.</i>
+<i>NOTE: These instructions assume that you do not have Mesen installed and configured to use HDNes packs. If you do have Mesen set up, only follow steps 6, 7, 8 and 11.</i>
 1. Download the latest version of Mesen from the official website: https://www.mesen.ca/#Downloads
 2. Extract the contents of "Mesen.zip" into the folder of your choice and navigate to the folder.
 3. Run "Mesen.exe".
